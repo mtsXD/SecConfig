@@ -1,0 +1,2 @@
+# SecConfig
+Configurações de Segurança.
