@@ -15,5 +15,13 @@ apt update && apt upgrade -y
 ```
 Caso o terminal retorne algum erro, tente fazer a seguinte alteração:
 ```
-
+apt update && apt upgrade -y --fix-missing
+```
+Apos ter dado aquela atualizada, é só instalar o gufw:
+```
+apt install gufw
+```
+Apos isso, é só executar ele no terminal:
+```
+gufw
 ```
