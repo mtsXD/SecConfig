@@ -9,7 +9,11 @@ Resumindo...
 
 ### 𝗣𝗿𝗶𝗺𝗲𝗶𝗿𝗼 𝗽𝗮𝘀𝘀𝗼
 𝙄𝙣𝙨𝙩𝙖𝙡𝙖𝙘̧𝙖̃𝙤 𝙙𝙤 𝙜𝙪𝙛𝙬 <br>
-Antes de mais nada, é sempre bom dá aquele:
+Antes de mais nada, é sempre bom dá aquele update e upgrade, lembrese de estar no modo 𝗿𝗼𝗼𝘁:
 ```
-sudo apt update && apt upgrade -y
+apt update && apt upgrade -y
+```
+Caso o terminal retorne algum erro, tente fazer a seguinte alteração:
+```
+
 ```
