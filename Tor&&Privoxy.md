@@ -21,7 +21,8 @@ Apos ter dado aquela atualizada, é só instalar o gufw:
 ```
 apt install gufw
 ```
-Apos isso, é só executar ele no terminal:
+Apos isso, é só executar ele no terminal digitando o comando:
 ```
 gufw
 ```
+Com a interface grafica da aplicação aberta, por medidas de segurança
