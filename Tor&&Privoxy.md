@@ -25,4 +25,14 @@ Apos isso, é só executar ele no terminal digitando o comando:
 ```
 gufw
 ```
-Com a interface grafica da aplicação aberta, por medidas de segurança
+
+<br>
+𝙘𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙖𝙘̧𝙤̃𝙚𝙨 do 𝙜𝙪𝙛𝙬
+<br>
+Com a interface gráfica da aplicação aberta, por medidas de segurança faça as seguintes alterações:
+<br>
+
+<img align="center" src="https://github.com/mtsXD/SecConfig/blob/main/IMG/gufw.png"/>
+<br>
+1º Ative o status do software.
+2º 
