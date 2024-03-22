@@ -58,4 +58,12 @@ Dentro de 𝙍𝙪𝙡𝙚𝙨, você ira determinar quais portas são destinada
 
 >
 > Nessa tabela a seguir estão o nome e o número de cada porta que recomendo:
->
+<br>
+
+  Nome   | Porta
+:-------: | :------:
+DNS | 53
+HTTP | 80
+HTTPS | 443
+PRIVOXY | 8118
+TOR | 9050
