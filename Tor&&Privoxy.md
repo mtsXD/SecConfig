@@ -44,5 +44,18 @@ Com a interface gráfica da aplicação aberta, por medidas de segurança faça 
 <br>
 
 
+Dentro de 𝙍𝙪𝙡𝙚𝙨, você ira determinar quais portas são destinadas para sair do seu dispositivo. Um adendo importante, verifique em 𝗗𝗶𝗿𝗲𝗰𝘁𝗶𝗼𝗻 se está como "Out", já que o objetivo é permitir somente que saia dados.
+<br>
+
+1º Vá em 𝘼𝙙𝙙 𝙖 𝙧𝙪𝙡𝙚... simbolizado por esse sinal de +, como mostra a figura abaixo.<p>
+2º Com a janela aberta, em 𝗡𝗮𝗺𝗲 o que você escrever é facultativo, mas recomendo colocar o nome da porta desejável.<p>
+3º Em 𝗽𝗼𝗿𝘁 digite a porta que deseja se comunicar, abaixo da imagem a seguir, colocarei uma tabela com as portas que trabalho.<p>
+4º Apos colocar o número da porta vá em +𝗔𝗱𝗱 e faça a mesma coisa para as outras portas.
+<br>
 
 <img align="center" src="https://github.com/mtsXD/SecConfig/blob/main/IMG/gufw%20Rules.png"/>
+<br>
+
+>
+> Nessa tabela a seguir estão o nome e o número de cada porta que recomendo:
+>
