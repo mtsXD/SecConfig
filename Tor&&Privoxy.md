@@ -40,6 +40,8 @@ Com a interface gráfica da aplicação aberta, por medidas de segurança faça 
 3º Vá para a aba 𝙍𝙪𝙡𝙚𝙨 e faça as configurações que serão mostradas posteriomente.
 <br>
 
+<br>
+
 <img align="center" src="https://github.com/mtsXD/SecConfig/blob/main/IMG/gufw.png"/>
 <br>
 
@@ -51,6 +53,8 @@ Dentro de 𝙍𝙪𝙡𝙚𝙨, você ira determinar quais portas são destinada
 2º Com a janela aberta, em 𝗡𝗮𝗺𝗲 o que você escrever é facultativo, mas recomendo colocar o nome da porta desejável.<p>
 3º Em 𝗽𝗼𝗿𝘁 digite a porta que deseja se comunicar, abaixo da imagem a seguir, colocarei uma tabela com as portas que trabalho.<p>
 4º Apos colocar o número da porta vá em +𝗔𝗱𝗱 e faça a mesma coisa para as outras portas.
+<br>
+
 <br>
 
 <img align="center" src="https://github.com/mtsXD/SecConfig/blob/main/IMG/gufw%20Rules.png"/>
